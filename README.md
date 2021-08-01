@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r1986sh
+- 👋 Hi, I’m Rali
 - 👀 I’m interested in ... cybersecurity
 - 🌱 I’m currently learning ... coding
 - 💞️ I’m looking to collaborate on ...
